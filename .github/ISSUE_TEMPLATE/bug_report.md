@@ -30,5 +30,5 @@ about: Create a report to help us improve
 
 
 #### Additional Information
-<!--- Include any relevant information that does not fit in other items, e.g. stacktrace, logs, etc. -->
+<!--- Include any relevant information that does not fit in other items, e.g. stack trace, logs, etc. -->
 
